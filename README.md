@@ -2,11 +2,13 @@
 
 ## Some info about me:
 
-🎉 I'm 21 years old
+🎉 I'm 22 years old
 
 🎓 Now I'm a 4th year student of Novosibirsk State University, Faculty of Information Technology
 
 📒 GPA:  4.9/5.0
+
+📜 My diploma is [here](https://github.com/Sandbox-gVisor) 
 
 ## My skills
 
