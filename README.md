@@ -8,7 +8,7 @@
 
 🧑‍💻 Go developer working on [Moira](https://github.com/moira-alert) and [Graphite](https://github.com/go-graphite)
 
-📜 My bahelor diploma is [here](https://github.com/Sandbox-gVisor) 
+📜 My bachelor diploma is [here](https://github.com/Sandbox-gVisor) 
 
 ## My skills
 
