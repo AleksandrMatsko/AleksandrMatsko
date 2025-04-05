@@ -6,7 +6,8 @@
 
 🎓 Now I'm a 1-st year student of magistracy in Novosibirsk State University, Faculty of Information Technology
 
-🧑‍💻 Go developer working on [Moira](https://github.com/moira-alert) and [Graphite](https://github.com/go-graphite)
+🧑‍💻 **Golang backend developer**:
+- ex. Software Developer at [Kontur](https://github.com/skbkontur) worked on [Moira](https://github.com/moira-alert) and [Graphite](https://github.com/go-graphite)
 
 📜 My bachelor diploma is [here](https://github.com/Sandbox-gVisor) 
 
