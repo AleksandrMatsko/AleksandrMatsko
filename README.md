@@ -4,7 +4,7 @@
 
 🎉 I'm 23 years old
 
-🎓 Now I'm a 2-st year student of magistracy in Novosibirsk State University, Faculty of Information Technology
+🎓 Now I'm a 2-nd year student of magistracy in Novosibirsk State University, Faculty of Information Technology
 
 🧑‍💻 **Golang backend developer**:
 - ex. Software Developer at [Kontur](https://github.com/skbkontur) worked on [Moira](https://github.com/moira-alert) and [Graphite](https://github.com/go-graphite)
