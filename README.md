@@ -2,7 +2,7 @@
 
 ## Some info about me:
 
-🎉 I'm 23 years old
+🎉 I'm 24 years old
 
 🎓 Now I'm a 2-nd year student of magistracy in Novosibirsk State University, Faculty of Information Technology
 
